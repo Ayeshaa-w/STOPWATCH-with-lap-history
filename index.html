@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stopwatch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="stopwatch-container">
+        <div class="time-display" id="display">00:00:00.0</div>
+
+        <div class="controls">
+            <button id="start">Start</button>
+            <button id="lap">Lap</button>
+            <button id="reset">Reset</button>
+        </div>
+
+        <div class="laps">
+            <h3>Lap History</h3>
+            <div id="lap-history"></div>
+            <button class="clear-laps" id="clear-laps">Clear History</button>
+        </div>
+
+        <div class="session-history">
+            <h3>Session History</h3>
+            <div id="session-history"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
