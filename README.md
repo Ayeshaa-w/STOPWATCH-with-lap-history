@@ -18,7 +18,7 @@ A sleek and feature-rich stopwatch web application designed with a modern black-
 ### **Installation and Usage**
 1. Clone the repository:  
    ```bash
-   git clone https://ayeshaa-w.github.io/STOPWATCH-with-lap-history/
+   git clone https://github.com/Ayeshaa-w/STOPWATCH-with-lap-history.git
    ```
 2. Open `index.html` in a web browser.  
 3. Use the stopwatch, track lap times, and manage session history.  
