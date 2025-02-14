@@ -24,6 +24,6 @@ A sleek and feature-rich stopwatch web application designed with a modern black-
 3. Use the stopwatch, track lap times, and manage session history.  
 
 ### **Project Demonstration**
-
+https://ayeshaa-w.github.io/STOPWATCH-with-lap-history/
 
 This project is designed for accurate timekeeping while offering a visually appealing and interactive user experience. Let me know if you need further modifications.
